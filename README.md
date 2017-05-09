@@ -18,7 +18,6 @@ List of the latest autonomous drone systems currently in production by our compa
   * Wildlife Preservation (e.g. Anti-Poaching)
   * Wilderness Protection (e.g. Forest Fire Detection)
 * Patrol **XXX**
-  * Border Patrol
   * Smuggling Control
 
 ### Proprietary soft/hard-ware components of the AUAV
