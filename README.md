@@ -7,7 +7,7 @@ It is highly encouraged that all members of the company use this repository as t
 
 # 1. Technical roundup
 
-## Types of drone AIs currently in production
+### Types of drone AIs currently in production
 List of the latest autonomous drone systems currently in production by our company, categorized by its intended purposes.
 
 * Crisis Response **XXX**
@@ -21,7 +21,7 @@ List of the latest autonomous drone systems currently in production by our compa
   * Border Patrol
   * Smuggling Control
 
-## Proprietary soft/hard-ware components of the AUAV
+### Proprietary soft/hard-ware components of the AUAV
 List of the components that enable the autonomy of our drones and the functionalities required by the assignments, which in turn engender the ethical issues to be addressed in the later sections.
 
 * Advanced thermalgraphic and HD cameras
